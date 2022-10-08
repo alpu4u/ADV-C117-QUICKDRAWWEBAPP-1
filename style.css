@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color:rgb(225, 0, 255);
+    background-color:cornsilk
+}
+#score{
+    font-size: medium;
+    margin: left;
+}
+#timer{
+    font-size: medium;
+    margin: right;
+    float: right;
+}
